@@ -25,3 +25,5 @@
 *.jpg binary
 *.pdf binary
 *.png binary
+
+*.html linguist-detectable=false
